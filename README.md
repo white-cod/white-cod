@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @white-cod
-- 👀 I’m interested in C++, C# & not only...
-- 🌱 I’m currently learning in IT Academy & at the Igor Sikorsky Kyiv Polytechnic Institute (KPI) at the 125th Bachelor's degree faculty
+- 👀 I’m interested in C++, C#, Python & not only...
+- 🌱 I’m currently learning at the Igor Sikorsky Kyiv Polytechnic Institute (KPI) at the 125th Bachelor's degree faculty
 - 📫 How to reach me wh1ter5713@gmail.com or https://www.instagram.com/whitarenko/
